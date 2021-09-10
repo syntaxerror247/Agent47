@@ -1,0 +1,7 @@
+Controls:-
+                            1. SPACE                         :    SHOOT
+                            2. W / UP                        :    FORWARD
+                            3. S / DOWN                  :    BACKWARD
+                            4. A / LEFT                      :    LEFT
+                            5. D / RIGHT                   :    RIGHT
+                            6. L_SWIFT / R_SWIFT    :    CHANGE WEAPON
